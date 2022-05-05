@@ -1,0 +1,11 @@
+.center{
+    text-align: center;
+    line-height: 4;
+    color: blueviolet;
+}
+.col-4{
+    margin-top: 20px;
+}
+.container-fluid{
+    background-color: rgb(231, 248, 248);
+}

@@ -1,0 +1,20 @@
+.star{
+    text-align: center;
+    background-color: #5c2e91;
+    padding: 65px;
+}
+.tamil{
+    padding: 10px 25px;
+    background-color: #f36a2c;
+    color: white;
+    font-size: 20px;
+    display: inline-block;
+    line-height: 2;
+    text-decoration: none;
+}
+.white{
+    color: white;
+}
+/* h1{
+    color: white;
+} */
